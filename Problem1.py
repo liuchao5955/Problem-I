@@ -13,3 +13,5 @@ def method():
     return -1    
 
 print method()
+
+print method()
