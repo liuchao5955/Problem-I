@@ -17,3 +17,5 @@ print method()
 print method()
 
 print method()
+
+print method()
