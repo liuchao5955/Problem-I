@@ -14,4 +14,4 @@ def method():
 
 print method()
 
-print "------------    The second_branch commit"
+print "-----    The second_branch commit"
